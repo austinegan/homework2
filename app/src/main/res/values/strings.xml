@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="myclass">Class</string>
+    <string name="role">Role</string>
+    <string name="exampleEmail">example@example.com</string>
+    <string name="agree">Agree To Terms</string>
+    <string name="student">Student</string>
+    <string name="instructor">Instructor</string>
+    <string name="reset">Reset</string>
+    <string name="register">Register</string>
+    <string name="yourName">Your Name Here</string>
+    <string name="yourPassword">Your Password</string>
+    <string name="yourPasswordAgain">Your Password Again</string>
+    <string name="email">Email :</string>
+    <string name="showpassword">Password :</string>
+    <string name="showname">Name :</string>
+    <string name="showClass">Class :</string>
+    <string name="showRole">Role :</string>
+    <string name="showMyPassword">Show Password</string>
+    <string-array name="admins">
+        <item>admin@gmail.com</item>
+        <item>test@fsu.edu</item>
+        <item>admin@fsu.edu</item>
+    </string-array>
+    <string-array name="classes">
+        <item>Select a class...</item>
+        <item>Chemistry</item>
+        <item>English</item>
+        <item>Computer Science</item>
+        <item>American History</item>
+        <item>Calculus</item>
+    </string-array>
+</resources>
